@@ -50,6 +50,6 @@
   <img 
     src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&logo=flutter&logoColor=61DAFB">    
    <img 
-    src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&logo=dart&logoColor=61DAFB">    
+    src="https://img.shields.io/badge/Dart-ffffff?style=for-the-badge&logo=dart&logoColor=61DAFB">    
 </div>
 
