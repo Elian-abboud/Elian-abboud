@@ -21,7 +21,7 @@
 
 ## 🛠 Tech Stack
 
-<h3>🖥️ Front-End</h3>
+<h3>🖥️ web Development</h3>
 <div>
   <img 
     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" 
@@ -32,11 +32,15 @@
   <img 
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" 
     alt="javascript"> 
-  <img 
-    src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&amp;logo=flutter&amp;logoColor=61DAFB" 
-    alt="react">
+ 
 </div>
-
+<h3>📱 Mobile Development </h3>
+<div>  
+  <img 
+    src="https://img.shields.io/badge/Flutter-0D0627?style=for-the-badge&logo=flutter&logoColor=61DAFB">    
+   <img 
+    src="https://img.shields.io/badge/Dart-0D0627?style=for-the-badge&logo=dart&logoColor=61DAFB">    
+</div>
 
 <h3>🎨 Designing</h3>
 <div>
@@ -45,11 +49,5 @@
     alt="figma">  
 </div>
 
-<h3>📱 Mobile</h3>
-<div>  
-  <img 
-    src="https://img.shields.io/badge/Flutter-0D0627?style=for-the-badge&logo=flutter&logoColor=61DAFB">    
-   <img 
-    src="https://img.shields.io/badge/Dart-0D0627?style=for-the-badge&logo=dart&logoColor=61DAFB">    
-</div>
+
 
