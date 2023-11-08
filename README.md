@@ -10,7 +10,7 @@
 
 - 💻 Front-end Developer .
 - 👀 -Bachelor's Degree in "Informatics Engineering"
-- 🚀 -I’m interested in "Software Development" specially Front-end Development
+- 🚀 -I’m interested in "Software Development" specially Front-end Development.
 - 📌 I live in Damascus - Syria.
 
 <h3 align="left">💬 How to reach me:</h3>
@@ -33,7 +33,7 @@
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" 
     alt="javascript"> 
   <img 
-    src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
+    src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&amp;logo=flutter&amp;logoColor=61DAFB" 
     alt="react">
 </div>
 
@@ -48,8 +48,8 @@
 <h3>📱 Mobile</h3>
 <div>  
   <img 
-    src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&logo=flutter&logoColor=61DAFB">    
+    src="https://img.shields.io/badge/Flutter-0D0627?style=for-the-badge&logo=flutter&logoColor=61DAFB">    
    <img 
-    src="https://img.shields.io/badge/Dart-b1b3b5?style=for-the-badge&logo=dart&logoColor=61DAFB">    
+    src="https://img.shields.io/badge/Dart-0D0627?style=for-the-badge&logo=dart&logoColor=61DAFB">    
 </div>
 
