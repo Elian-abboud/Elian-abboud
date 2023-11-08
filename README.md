@@ -49,6 +49,6 @@
 <div>  
   <img 
     src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&logo=react&logoColor=61DAFB" 
-    alt="react native">    
+    alt="flutter">    
 </div>
 
