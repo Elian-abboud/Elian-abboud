@@ -48,7 +48,8 @@
 <h3>📱 Mobile</h3>
 <div>  
   <img 
-    src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&logo=react&logoColor=61DAFB" 
+    src="https://img.shields.io/badge/flutter-0D0627?style=for-the-badge&logo=flutter&logoColor=61DAFB" 
+
     alt="flutter">    
 </div>
 
