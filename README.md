@@ -32,6 +32,9 @@
   <img 
     src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" 
     alt="javascript"> 
+     <img 
+    src="https://img.shields.io/badge/React-0D0627?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" 
+    alt="react">
  
 </div>
 <h3>📱 Mobile Development </h3>
