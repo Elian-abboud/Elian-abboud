@@ -15,7 +15,7 @@
 ### 👨🏻‍💻 About Me
 
 - 🧠 Bachelor's Degree in **Informatics Engineering**
-- 🚀 Passionate about **Front-end Development** and **UI/UX**
+- 🚀 Passionate about **Front-end Development**
 - 🌱 Always learning and exploring new technologies in web and mobile development
 - 📌 Based in **Damascus, Syria**
 
