@@ -23,13 +23,9 @@
 
 ### 💬 Contact Me
 
-<a href="mailto:elianabboud5@gmail.com">
-  <img src="https://img.shields.io/badge/Email-elianabboud5@gmail.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elian%20Abboud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elian-abboud/)
 
-<a href="https://www.linkedin.com/in/elian-abboud/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Elian%20Abboud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-elianabboud5@gmail.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:elianabboud5@gmail.com)
 
 ---
 
