@@ -1,54 +1,46 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Elian%20Abboud&fontSize=80&animation=fadeIn" width="100%" />
-
-  <h2>💻 Front-end Developer | Informatics Engineer</h2>
-  <p>📍 Damascus, Syria</p>
-
-  <a href="https://www.linkedin.com/in/elian-abboud/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:elianabboud5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 </div>
 
----
+<h1 align="center">Hi there, I'm Elian Abboud 👋</h1>
 
-### 👨‍💻 نبذة عني
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <br />
-      • 🎓 حائز على إجازة في <b>هندسة المعلوماتية</b><br />
-      • 🚀 شغوف بتطوير واجهات المستخدم <b>Front-end</b><br />
-      • 🌱 أتعلم دائماً تقنيات جديدة في الويب والموبايل<br />
-      • ✨ أهتم بتحويل التصاميم المعقدة إلى كود نظيف
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  💻 Front-end Developer | 🎓 Informatics Engineer | 📍 Damascus, Syria
+</p>
 
 ---
 
-### 🛠 التقنيات التي أتقنها (Tech Stack)
+<img align="right" alt="coding-gif" src="https://github.com/ivan-abboud/ivan-abboud/blob/main/code.gif?raw=true" width="350"/>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,figma,git,vite&theme=dark" />
+### 👨🏻‍💻 About Me
+
+- 🧠 Bachelor's Degree in **Informatics Engineering**
+- 🚀 Passionate about **Front-end Development**
+- 🌱 Always learning and exploring new technologies in web and mobile development
+- 📌 Based in **Damascus, Syria**
+
+---
+
+### 💬 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elian%20Abboud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elian-abboud/)
+
+[![Email](https://img.shields.io/badge/Email-elianabboud5@gmail.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:elianabboud5@gmail.com)
+
+---
+
+## 🛠 Tech Stack
+
+### 🌐 Web Development
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div>
 
----
 
-### 📊 لغات البرمجة الأكثر استخداماً
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="400" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+### 🎨 UI/UX Design
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
