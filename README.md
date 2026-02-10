@@ -17,121 +17,105 @@
 
 ---
 
-<!-- Modern Grid Layout -->
+## 🚀 About Me
+
 <div align="center">
-  <table width="100%" cellspacing="20">
-    <tr>
-      <td width="60%" valign="top">
-        
-        <!-- About Me Card - Modern Design -->
-        <div style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); padding: 30px; border-radius: 20px; border: 1px solid #334155; box-shadow: 0 20px 40px rgba(15, 23, 42, 0.3);">
-          <h2 style="color: #F1F5F9; margin-top: 0; font-size: 28px; display: flex; align-items: center; gap: 10px;">
-            <span style="background: linear-gradient(135deg, #6366F1, #8B5CF6); padding: 8px 12px; border-radius: 12px;">🚀</span>
-            About Me
-          </h2>
-          
-          <div style="color: #CBD5E1; line-height: 1.8; font-size: 16px;">
-            <div style="display: flex; align-items: flex-start; margin-bottom: 20px; padding: 15px; background: rgba(30, 41, 59, 0.5); border-radius: 12px; border-left: 4px solid #6366F1;">
-              <span style="font-size: 24px; margin-right: 15px; color: #6366F1;">🎓</span>
-              <div>
-                <strong style="color: #F1F5F9; font-size: 17px;">Informatics Engineering Graduate</strong><br>
-                Passionate about creating beautiful, functional web experiences. I specialize in turning complex problems into simple, elegant solutions.
-              </div>
-            </div>
-            
-            <div style="display: flex; align-items: flex-start; margin-bottom: 20px; padding: 15px; background: rgba(30, 41, 59, 0.5); border-radius: 12px; border-left: 4px solid #10B981;">
-              <span style="font-size: 24px; margin-right: 15px; color: #10B981;">💡</span>
-              <div>
-                <strong style="color: #F1F5F9; font-size: 17px;">Core Beliefs</strong><br>
-                I believe in <span style="color: #60A5FA;">clean code</span>, <span style="color: #60A5FA;">user-centered design</span>, and <span style="color: #60A5FA;">continuous learning</span>. Always exploring new technologies to build better digital solutions.
-              </div>
-            </div>
-            
-            <div style="display: flex; align-items: flex-start; padding: 15px; background: rgba(30, 41, 59, 0.5); border-radius: 12px; border-left: 4px solid #F59E0B;">
-              <span style="font-size: 24px; margin-right: 15px; color: #F59E0B;">🎯</span>
-              <div>
-                <strong style="color: #F1F5F9; font-size: 17px;">Current Focus</strong><br>
-                Mastering the <span style="color: #60A5FA;">React ecosystem</span> and <span style="color: #60A5FA;">Flutter</span> for cross-platform mobile development. Building scalable, performant applications.
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- GitHub Stats - Modern Cards -->
-        <br>
-        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
-          <div style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); padding: 20px; border-radius: 20px; border: 1px solid #334155;">
-            <h3 style="color: #F1F5F9; margin-top: 0;">📊 GitHub Stats</h3>
-            <img height="165" src="https://github-readme-stats.vercel.app/api?username=ivan-abboud&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=30,0F172A,1E293B&title_color=6366F1&icon_color=8B5CF6&text_color=CBD5E1" />
-          </div>
-          
-          <div style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); padding: 20px; border-radius: 20px; border: 1px solid #334155;">
-            <h3 style="color: #F1F5F9; margin-top: 0;">💻 Top Languages</h3>
-            <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-abboud&layout=compact&theme=dark&hide_border=true&bg_color=30,0F172A,1E293B&title_color=6366F1&text_color=CBD5E1" />
-          </div>
-        </div>
-        
-      </td>
-      <td width="40%" valign="top">
-        
-        <!-- Profile Card - Modern Design -->
-        <div style="background: linear-gradient(135deg, #0F172A 0%, #1E293B 100%); padding: 30px; border-radius: 20px; border: 1px solid #334155; box-shadow: 0 20px 40px rgba(15, 23, 42, 0.3); text-align: center; height: 100%;">
-          
-          <!-- Profile Avatar -->
-          <div style="width: 180px; height: 180px; margin: 0 auto 25px; border-radius: 50%; background: linear-gradient(135deg, #6366F1, #8B5CF6); padding: 5px; box-shadow: 0 10px 25px rgba(99, 102, 241, 0.3);">
-            <div style="width: 100%; height: 100%; border-radius: 50%; background: #0F172A; display: flex; align-items: center; justify-content: center; overflow: hidden; border: 3px solid #1E293B;">
-              <span style="font-size: 60px; color: #6366F1; font-weight: bold;">EA</span>
-              <!-- Replace with: <img src="your-photo-url" width="180" style="border-radius: 50%;" /> -->
-            </div>
-          </div>
-          
-          <h3 style="color: #F1F5F9; margin: 10px 0; font-size: 24px;">Elian Abboud</h3>
-          <p style="color: #94A3B8; margin: 5px 0 25px; font-size: 16px;">Front-End Developer</p>
-          
-          <!-- Contact Section -->
-          <div style="margin-top: 20px;">
-            <h4 style="color: #F1F5F9; margin-bottom: 20px; font-size: 20px; display: flex; align-items: center; justify-content: center; gap: 10px;">
-              <span style="background: linear-gradient(135deg, #6366F1, #8B5CF6); padding: 6px 10px; border-radius: 10px;">📬</span>
-              Let's Connect
-            </h4>
-            
-            <!-- LinkedIn -->
-            <a href="https://www.linkedin.com/in/elian-abboud/" style="text-decoration: none; display: block; margin-bottom: 15px;">
-              <div style="background: linear-gradient(135deg, #0077B5, #00A0DC); color: white; padding: 14px 25px; border-radius: 12px; display: flex; align-items: center; justify-content: center; gap: 12px; transition: all 0.3s; border: 1px solid rgba(255, 255, 255, 0.1);">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="22" />
-                <span style="font-weight: 600; font-size: 16px;">LinkedIn</span>
-              </div>
-            </a>
-            
-            <!-- Gmail -->
-            <a href="mailto:elianabboud5@gmail.com" style="text-decoration: none; display: block; margin-bottom: 15px;">
-              <div style="background: linear-gradient(135deg, #EA4335, #D44638); color: white; padding: 14px 25px; border-radius: 12px; display: flex; align-items: center; justify-content: center; gap: 12px; transition: all 0.3s; border: 1px solid rgba(255, 255, 255, 0.1);">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" width="22" />
-                <span style="font-weight: 600; font-size: 16px;">Gmail</span>
-              </div>
-            </a>
-            
-            <!-- GitHub -->
-            <a href="https://github.com/ivan-abboud" style="text-decoration: none; display: block;">
-              <div style="background: linear-gradient(135deg, #333333, #24292E); color: white; padding: 14px 25px; border-radius: 12px; display: flex; align-items: center; justify-content: center; gap: 12px; transition: all 0.3s; border: 1px solid rgba(255, 255, 255, 0.1);">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" width="22" />
-                <span style="font-weight: 600; font-size: 16px;">GitHub</span>
-              </div>
-            </a>
-            
-            <!-- Location -->
-            <div style="margin-top: 25px; padding: 15px; background: rgba(30, 41, 59, 0.7); border-radius: 12px; border: 1px solid #334155;">
-              <div style="display: flex; align-items: center; justify-content: center; gap: 10px; color: #94A3B8;">
-                <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/map.svg" width="18" />
-                <span>Damascus, Syria</span>
-              </div>
-            </div>
-          </div>
-        </div>
-        
-      </td>
-    </tr>
-  </table>
+  
+  <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  
+  🎓 **Informatics Engineering Graduate**<br>
+  Passionate about creating beautiful, functional web experiences. I specialize in turning complex problems into simple, elegant solutions.
+  
+  <br>
+  
+  💡 **Core Beliefs**<br>
+  I believe in **clean code**, **user-centered design**, and **continuous learning**. Always exploring new technologies to build better digital solutions.
+  
+  <br>
+  
+  🎯 **Current Focus**<br>
+  Mastering the **React ecosystem** and **Flutter** for cross-platform mobile development. Building scalable, performant applications.
+  
 </div>
 
 ---
+
+<div align="center">
+  
+  ## 📊 GitHub Stats
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivan-abboud&show_icons=true&theme=dark&count_private=true&hide_border=true&bg_color=30,0F172A,1E293B&title_color=6366F1&icon_color=8B5CF6&text_color=CBD5E1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-abboud&layout=compact&theme=dark&hide_border=true&bg_color=30,0F172A,1E293B&title_color=6366F1&text_color=CBD5E1" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-abboud&theme=dark&hide_border=true&background=0F172A&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 📬 Let's Connect
+  
+  <a href="https://www.linkedin.com/in/elian-abboud/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:elianabboud5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/ivan-abboud">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend Development**
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  
+</div>
+
+### **Mobile Development**
+<div align="center">
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  
+</div>
+
+### **Tools & Platforms**
+<div align="center">
+  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## 📈 Activity Graph
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=ivan-abboud&theme=react-dark&bg_color=0F172A&hide_border=true&area=true" width="100%" />
+  
+  <br>
+  
+  <img src="https://komarev.com/ghpvc/?username=ivan-abboud&color=6366F1&style=flat-square" alt="Profile Views" />
+  
+</div>
