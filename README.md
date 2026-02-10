@@ -1,27 +1,36 @@
-<!-- HERO SECTION -->
+<!-- ================= HERO ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Elian%20Abboud&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-
-### Front-end Developer | Informatics Engineer
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,27&height=220&section=header&text=Elian%20Abboud&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling" />
 
 <p>
-Building clean, fast & user-focused web interfaces using modern Front-end tools.
+<strong>Front-end Developer</strong> • Informatics Engineer • UI/UX Enthusiast
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=React.js+Developer;UI%2FUX+Focused;Clean+Code+Lover;Always+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=22&pause=900&color=7DD3FC&center=true&vCenter=true&width=650&lines=I+design+interfaces+people+enjoy;I+build+React+apps+that+make+sense;Clean+UI+%E2%9D%A4%EF%B8%8F+Clean+Code" />
 
 </div>
 
 ---
 
-## 🧠 Who Am I
+<!-- ================= STORY ================= -->
+## 🪄 My Story
 
-```js
-const elian = {
-  role: "Front-end Developer",
-  background: "Informatics Engineering",
-  focus: ["React.js", "Responsive UI", "UX"],
-  mindset: "Build things that people enjoy using",
+> I don’t just write code.  
+> I **design experiences**, care about **details**,  
+> and believe great UI should feel *obvious* to the user.
+
+```ts
+interface Developer {
+  name: string;
+  stack: string[];
+  principles: string[];
+  location: string;
+}
+
+const elian: Developer = {
+  name: "Elian Abboud",
+  stack: ["HTML", "CSS", "JavaScript", "React"],
+  principles: ["UX first", "Reusable components", "Performance matters"],
   location: "Damascus, Syria"
 };
