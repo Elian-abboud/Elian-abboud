@@ -1,72 +1,54 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=gradient&customColorList=10,2,20&height=200&section=header&text=Elian%20Abboud&fontSize=80&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Elian%20Abboud&fontSize=80&animation=fadeIn" width="100%" />
 
-  <br />
-
-  <h1>🚀 Crafting Digital Experiences</h1>
-  <p><b>Informatics Engineer from Damascus, Syria</b></p>
+  <h2>💻 Front-end Developer | Informatics Engineer</h2>
+  <p>📍 Damascus, Syria</p>
 
   <a href="https://www.linkedin.com/in/elian-abboud/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;
   <a href="mailto:elianabboud5@gmail.com">
-    <img src="https://img.shields.io/badge/microsoft-%230078D4.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 💡 Discovery
-<table width="100%">
+### 👨‍💻 نبذة عني
+
+<table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h4>👨‍💻 About Me</h4>
-      <ul>
-        <li>🎓 <b>Informatics Engineering</b> Degree</li>
-        <li>⚛️ <b>Front-end Expert</b> focused on React</li>
-        <li>🌍 Based in <b>Damascus, Syria</b></li>
-        <li>⚡ Obsessed with UI Performance</li>
-      </ul>
+      <br />
+      • 🎓 حائز على إجازة في <b>هندسة المعلوماتية</b><br />
+      • 🚀 شغوف بتطوير واجهات المستخدم <b>Front-end</b><br />
+      • 🌱 أتعلم دائماً تقنيات جديدة في الويب والموبايل<br />
+      • ✨ أهتم بتحويل التصاميم المعقدة إلى كود نظيف
     </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Featured Project</h4>
-      <p><b>My Portfolio Site</b></p>
-      <p>A showcase of my recent work built with <i>React</i> and <i>Tailwind CSS</i>.</p>
-      <a href="#"><b>View Details →</b></a>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 التقنيات التي أتقنها (Tech Stack)
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,git,npm,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,figma,git,vite&theme=dark" />
 </div>
 
 ---
 
-### 📊 Engineering Stats
+### 📊 لغات البرمجة الأكثر استخداماً
+
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_footer.gif" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
 </div>
