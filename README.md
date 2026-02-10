@@ -1,46 +1,49 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Elian%20Abboud&fontSize=90&animation=fadeIn" width="100%" />
 </div>
 
-<h1 align="center">Hi there, I'm Elian Abboud 👋</h1>
-
-<p align="center">
-  💻 Front-end Developer | 🎓 Informatics Engineer | 📍 Damascus, Syria
-</p>
-
----
-
-<img align="right" alt="coding-gif" src="https://github.com/ivan-abboud/ivan-abboud/blob/main/code.gif?raw=true" width="350"/>
-
-### 👨🏻‍💻 About Me
-
-- 🧠 Bachelor's Degree in **Informatics Engineering**
-- 🚀 Passionate about **Front-end Development**
-- 🌱 Always learning and exploring new technologies in web and mobile development
-- 📌 Based in **Damascus, Syria**
-
----
-
-### 💬 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elian%20Abboud-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elian-abboud/)
-
-[![Email](https://img.shields.io/badge/Email-elianabboud5@gmail.com-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:elianabboud5@gmail.com)
-
----
-
-## 🛠 Tech Stack
-
-### 🌐 Web Development
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<div align="center">
+  <h3>⚡ Front-end Developer | Informatics Engineer ⚡</h3>
+  <p>Building seamless digital experiences from Damascus to the world.</p>
+  
+  <a href="https://www.linkedin.com/in/elian-abboud/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:elianabboud5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
 </div>
 
+---
 
-### 🎨 UI/UX Design
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+### 🚀 The Brief
+I’m an **Informatics Engineer** dedicated to crafting pixel-perfect, high-performance user interfaces. I bridge the gap between complex engineering logic and intuitive UI/UX design.
+
+* 🔭 **Current focus:** Advanced React patterns & Performance Optimization.
+* 🎓 **Background:** B.S. in Informatics Engineering.
+* 💬 **Ask me about:** JavaScript, React, and why CSS-in-JS is a game changer.
+
+---
+
+### 🛠 My Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | `HTML5` `CSS3` `JavaScript` `React` `Redux` |
+| **Design** | `Figma` `Adobe XD` `Responsive Design` |
+| **Tools** | `Git` `NPM` `Vite` `Postman` |
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&align=center" alt="Elian's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 </div>
