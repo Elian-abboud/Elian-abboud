@@ -6,8 +6,8 @@
 
 <div align="center">
   <h1>Hi there, I'm Elian Abboud 👋</h1>
-  <!-- <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Front-end+Developer;Informatics+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" /> -->
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Front-end+Developer;Informatics+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" /> 
   </p>
    <p>
     <img src="https://komarev.com/ghpvc/?username=ivan-abboud&label=Profile%20Views&color=6E57F7&style=flat" alt="profile views" />
@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" alt="coding-gif" src="https://github.com/ivan-abboud/ivan-abboud/blob/main/code.gif?raw=true" width="360" style="border-radius: 12px;"/>
+<!-- <img align="right" alt="coding-gif" src="https://github.com/ivan-abboud/ivan-abboud/blob/main/code.gif?raw=true" width="360" style="border-radius: 12px;"/> -->
 
 ### 👨🏻‍💻 About Me
 
