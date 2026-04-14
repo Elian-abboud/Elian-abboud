@@ -28,6 +28,7 @@
 - 📬 Reach me at **elianabboud5@gmail.com**
 
 <br clear="right"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/22107794/139606420-eaa56bc7-9377-4f5d-9356-aed07bed3143.gif" width="350px" />
 
 ---
 
