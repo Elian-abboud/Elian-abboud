@@ -9,9 +9,9 @@
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=500&lines=Front-end+Developer;Informatics+Engineer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   </p>
-  <p>
+  <!-- <p>
     <img src="https://komarev.com/ghpvc/?username=ivan-abboud&label=Profile%20Views&color=6E57F7&style=flat" alt="profile views" />
-  </p>
+  </p> -->
 </div>
 
 ---
