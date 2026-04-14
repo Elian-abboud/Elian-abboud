@@ -65,20 +65,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivan-abboud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-abboud&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivan-abboud&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E57F7&height=100&section=footer" width="100%"/>
-</div>
